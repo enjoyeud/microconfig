@@ -24,8 +24,7 @@ spring:
       password: enjoy
   application:
     name: microcloud-config-eureka-client
-    
-----
+---
 server:
  port: 7002
 eureka:
