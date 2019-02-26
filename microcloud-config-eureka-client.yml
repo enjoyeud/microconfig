@@ -23,7 +23,7 @@ spring:
       name: admin
       password: enjoy
   application:
-    name: microcloud-eureka
+    name: microcloud-config-eureka-client
     
 ----
 server:
@@ -46,4 +46,4 @@ spring:
       name: admin
       password: enjoy
   application:
-    name: microcloud-eureka
+    name: microcloud-config-eureka-client
