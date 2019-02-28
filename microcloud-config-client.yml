@@ -18,8 +18,8 @@ eureka:
   register-with-eureka: false
 
 info:
-  app.name: microcloud-config-client-devv
-  company.name: enjoy
+  app.name: microcloud-config-client-dev
+  company.name: enjoyenjoy
 ---
 server:
   port: 8102
