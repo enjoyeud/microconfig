@@ -18,7 +18,7 @@ eureka:
   register-with-eureka: false
 
 info:
-  app.name: microcloud-config-client-devddaad
+  app.name: microcloud-config-client-devddaad1111
   company.name: enjoy
 ---
 server:
