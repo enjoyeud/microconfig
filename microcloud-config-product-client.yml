@@ -12,9 +12,8 @@ spring:
  datasource:
    type: com.alibaba.druid.pool.DruidDataSource # 配置当前要使用的数据源的操作类型
    driver-class-name: com.mysql.jdbc.Driver # 配置MySQL的驱动程序类
-   url: jdbc:mysql://localhost:3306/springcloud?serverTimezone=GMT%2B8 # 数据库连接地址
+   url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=GMT%2B8 # 数据库连接地址
    username: root # 数据库用户名
-   password: root1234% # 数据库连接密码
  application:
    name: microcloud-config-product-client
  profiles: dev
@@ -56,9 +55,8 @@ spring:
  datasource:
    type: com.alibaba.druid.pool.DruidDataSource # 配置当前要使用的数据源的操作类型
    driver-class-name: com.mysql.jdbc.Driver # 配置MySQL的驱动程序类
-   url: jdbc:mysql://localhost:3306/springcloud?serverTimezone=GMT%2B8 # 数据库连接地址
+   url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=GMT%2B8 # 数据库连接地址
    username: root # 数据库用户名
-   password: root1234% # 数据库连接密码
  application:
    name: microcloud-config-product-client
  profiles: beta
